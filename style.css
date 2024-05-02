@@ -87,7 +87,12 @@ body {
     text-align: center;
     color: var(--verde);
     text-transform: uppercase;
-}
+} 
+.contador{
+    display: flex;
+    justify-contente: center;
+    flex-wrap; wrap;
+    
 .contador-digito { 
     podding:0 16 px;
     text-align: center;
